@@ -7,3 +7,7 @@
 **PowerBi Dashboard:**
 
 ![Screenshot 2024-08-05 231727](https://github.com/user-attachments/assets/3f801774-d26b-4771-bf47-71456608dee1)
+
+**Tableau Dashboard**
+
+https://public.tableau.com/app/profile/qaifal.shaikh/viz/TAbleauHrAnalytics1/Dashboard1
